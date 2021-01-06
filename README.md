@@ -1,5 +1,3 @@
-# ⛔️ DEPRECATED
-***MERN is deprecated and is no longer actively maintained.***
 
 # mern-starter
 ![title](https://travis-ci.org/Hashnode/mern-starter.svg?branch=v2.0.0)
